@@ -1,0 +1,44 @@
+worth:
+  diamondpickaxe: 150.0
+  diamondhoe: 100.0
+  diamondaxe: 150.0
+  diamondblock: 450.0
+  diamondhelmet: 250.0
+  diamondspade: 50.0
+  diamondchestplate: 400.0
+  goldleggings: 1.5
+  chainmailleggings: 12.5
+  ironhelmet: 5.5
+  obsidian: 32.5
+  cake: 45.0
+  ironingot: 5.5
+  ironleggings: 5.5
+  chainmailboots: 7.5
+  diamondleggings: 350.0
+  saddle: 25.0
+  tnt: 25.0
+  glowingredstoneore: 7.5
+  goldingot: 26.0
+  diode: 27.5
+  clay: 3.0
+  goldblock: 112.5
+  goldpickaxe: 1.5
+  compass: 5.5
+  diamondsword: 100.0
+  goldboots: 1.5
+  sponge: 20.0
+  diamond: 50.0
+  goldspade: 1.5
+  chainmailchestplate: 10.0
+  diamondboots: 200.0
+  milkbucket: 10.0
+  redstone: 8.0
+  greenrecord: 25.0
+  glowstonedust: 2.5
+  book: 11.0
+  bow: 3.5
+  ironboots: 5.5
+  ic2itemcoin:
+    '0': 100.0
+  enderpearl:
+    '0': 25.0

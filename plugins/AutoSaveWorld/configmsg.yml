@@ -1,0 +1,15 @@
+broadcast:
+  pre: '&9Welt wird gespeichert...'
+  post: '&9Welt wurde gespeichert'
+broadcastbackup:
+  pre: '&9Welt wird gesichert, es koennte laggen'
+  post: '&9Sicherung komplett'
+broadcastpurge:
+  pre: '&9AutoPurge. Expect minor lag...'
+  post: '&9AutoPurge Complete'
+insufficentpermissions: '&cYou do not have access to that command.'
+autorestart:
+  restarting: '&9Server wird neu gestartet'
+  countdown: '&9Automatischer Neustart in {SECONDS} Sekunde(n)'
+worldregen:
+  kickmessage: '&9Server is regenerating map, please come back later'

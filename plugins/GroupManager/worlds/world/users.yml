@@ -1,0 +1,18 @@
+users:
+  50b5d78f-7422-4149-b899-25ed4fc3a0c3:
+    lastname: Blacky76
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  848d48e8-bc22-4a74-95e2-ef0d55115647:
+    lastname: Namikon
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  Andronis:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
